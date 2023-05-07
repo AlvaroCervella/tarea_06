@@ -1,0 +1,42 @@
+.header{
+    background-color: rgb(72, 119, 33);
+    width: 100%;
+    height: auto;
+       
+}
+
+   
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    justify-content: space-between;
+    background-color: rgb(143, 187, 150);
+    
+    }
+
+.footer{
+    background-color: rgb(15, 65, 23);
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.menufooter{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    justify-content: space-between;
+
+}
+
+.formulario{
+    border: 12px;
+    border-bottom-width: 5px;
+    border-bottom-color: rgb(15, 65, 23) ;
+}
+
